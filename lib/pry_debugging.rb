@@ -1,4 +1,4 @@
 def plus_two(num)
-	sum = num.to_i + 2
-	sum
+    num + 2 
+    
 end
